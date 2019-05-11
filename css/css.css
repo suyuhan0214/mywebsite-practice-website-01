@@ -1,0 +1,36 @@
+body{
+    font-family: Helvetica;
+}
+.topics{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    /* margin: 0.83em ; */
+}
+.box span{
+    font-weight: bold;
+    color: blue;
+}
+/* Header */
+header .container{
+
+}
+#title{
+    background-image: url("../img/pattern01.jpeg");
+    background-size: cover;
+    font-size:100px;
+    text-align: center;
+    color: khaki;
+    font-weight: bold;
+    margin: 30px auto;
+}
+
+.brushes{
+    background-color: MediumSpringGreen;
+}
+.frames{
+    background-color: lightcoral;
+}
+.paint{
+    background-color:skyblue;
+}
